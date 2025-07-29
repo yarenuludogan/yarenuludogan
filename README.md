@@ -7,10 +7,20 @@
 🌱 Currently learning: Java, Node.js
 
 ## 🔧 Technologies & Tools
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat)
-![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white&style=flat)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white&style=flat)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat)
+
+![ReactJS](https://img.shields.io/badge/-React_JS-61DAFB?logo=react&logoColor=white&style=flat)
+![AngularJS](https://img.shields.io/badge/-Angular_JS-DD0031?logo=angular&logoColor=white&style=flat)
+![NodeJS](https://img.shields.io/badge/-Node_JS-339933?logo=node.js&logoColor=white&style=flat)
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat)
+
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
+
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
+![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white&style=flat)
+
 
 ## 📊 GitHub Stats
 ![Yaren's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yarenuludogan&show_icons=true&theme=radical)
