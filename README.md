@@ -23,7 +23,6 @@
 
 
 ## 📊 GitHub Stats
-![Yaren's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yarenuludogan&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yarenuludogan&layout=compact&theme=radical)
 
