@@ -1,6 +1,6 @@
 
 
-# Hi there 👋 I'm Yaren
+ # Hi there 👋 I'm Yaren
 
 🎓 I'm a Senior Mathematical Engineering student at Yıldız Technical University.  
 💻 Passionate about Frontend Developmet & Data Science  
@@ -24,4 +24,11 @@
 
 ## 📊 GitHub Stats
 ![Yaren's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yarenuludogan&show_icons=true&theme=radical)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yarenuludogan&layout=compact&theme=radical)
+
+
+## 📫 Contact 
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/yaren-uludo%C4%9Fan-858713228/)
+[![Gmail](https://img.shields.io/badge/-yarenuludogan@gmail.com-D14836?logo=gmail&logoColor=white&style=flat)](mailto:yaren.uludogan0@gmail.com)
