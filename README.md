@@ -1,7 +1,7 @@
 
 
  # Hi there I'm Yaren
-
+ 
 🎓 I'm a Senior Mathematical Engineering student at Yıldız Technical University.  
 💻 Passionate about Frontend Developmet & Data Science  
 🌱 Currently learning: Java , Node.js
