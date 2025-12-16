@@ -4,7 +4,7 @@
  
 🎓 I'm a Senior Mathematical Engineering student at Yıldız Technical University.  
 💻 Passionate about Frontend Development & Data Science  
-🌱 Currently learning: Java , C#
+🌱 Currently learning: Java 
 
 ## 🔧 Technologies & Tools
 
