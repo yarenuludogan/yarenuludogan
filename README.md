@@ -10,7 +10,6 @@
 
 ![ReactJS](https://img.shields.io/badge/-React_JS-61DAFB?logo=react&logoColor=white&style=flat)
 ![AngularJS](https://img.shields.io/badge/-Angular_JS-DD0031?logo=angular&logoColor=white&style=flat)
-![NodeJS](https://img.shields.io/badge/-Node_JS-339933?logo=node.js&logoColor=white&style=flat)
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat)
